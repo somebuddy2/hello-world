@@ -2,4 +2,4 @@
 
 This is the Read me file for my fist GitHub repo.
 
-This is a new line
+I removed the previous ine and added this one
